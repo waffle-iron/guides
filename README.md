@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/SkygearIO/guides.png?label=ready&title=Ready)](https://waffle.io/SkygearIO/guides)
 # Skygear Guides
 
 This is the repository and issue trackers for Skygear Guides. The markdown files
